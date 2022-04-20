@@ -1,0 +1,15 @@
+{
+  "short_name": "SACT PASS",
+  "name": "SACT PASS MINT",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "524x524"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
